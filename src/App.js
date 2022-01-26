@@ -11,13 +11,13 @@ const initialExpenses = [
     date: new Date(2022, 1, 12),
   },
   {
-    id: "1",
+    id: "2",
     title: "paper towels",
     amount: 30.12,
     date: new Date(2022, 1, 12),
   },
   {
-    id: "1",
+    id: "3",
     title: "internet",
     amount: 93.42,
     date: new Date(2022, 1, 12),
