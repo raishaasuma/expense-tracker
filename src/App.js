@@ -8,19 +8,19 @@ const INITIAL_EXPENSES = [
     id: "1",
     title: "toilet paper",
     amount: 30.12,
-    date: new Date(2022, 1, 12),
+    date: new Date(2020, 1, 12),
   },
   {
     id: "2",
     title: "paper towels",
     amount: 30.12,
-    date: new Date(2022, 1, 12),
+    date: new Date(2019, 1, 12),
   },
   {
     id: "3",
     title: "internet",
     amount: 93.42,
-    date: new Date(2022, 1, 12),
+    date: new Date(2019, 1, 12),
   },
 ];
 
